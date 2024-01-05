@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecyleViewExample</string>
+    <string name="image">image</string>
+    <string name="email_text">Text Email</string>
+    <string name="email_subject">Subject Email</string>
+    <string name="email_message">Message Email</string>
+    <string name="username">Username</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone Number</string>
+    <string name="email">Email Address</string>
+    <string name="save">Save</string>
+    <string name="view_data">View Data</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
